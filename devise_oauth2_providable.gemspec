@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name        = "devise_oauth2_providable"
   s.version     = Devise::Oauth2Providable::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Ryan Sonnek"]
-  s.email       = ["ryan@socialcast.com"]
+  s.authors     = ["Aafaq Hassan"]
+  s.email       = ["aafaqhassan@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{OAuth2 Provider for Rails3 applications}
   s.description = %q{Rails3 engine that adds OAuth2 Provider support to any application built with Devise authentication}
